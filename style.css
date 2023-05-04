@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+#grid {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.square {
+    border: thick solid black;
+    color: white;                                 /* lol */
+}
