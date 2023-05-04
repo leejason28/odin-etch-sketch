@@ -3,6 +3,7 @@ h1 {
 }
 
 #grid {
+    max-width: 960px;
     display: flex;
     flex-direction: column;
 }
