@@ -12,6 +12,6 @@ h1 {
 }
 
 .square {
-    border: thick solid black;
+    border: thin solid black;
     color: white;                                 /* lol */
 }
